@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 40;
+    height: 100%;
+    width: 100%;
+    background-color: #0e1629;
+    text-align: center;
+}
+h1{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #c5d0df;
+    margin: 100px 10px 10px;
+    text-align: center;
+}
+p{
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Dongle', sans-serif;
+    color: #ffffff;
+    margin: 10px 10px;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 200px;
+    border-radius: 25px;
+    border: 0px;
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #ffffff;
+    background-color: lightgreen;
+}
